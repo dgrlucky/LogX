@@ -57,6 +57,7 @@
 ```
 1.根目录:logx.jar  添加到libs依赖方可使用
 2.导入第三方库添加依赖，还可以自定义
+3.在Maven Central搜索“logx”选择'compile 'com.github.dgrlucky:logx:1.0.0'
 ```
 
 ## About

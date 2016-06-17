@@ -26,4 +26,5 @@ dependencies {
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'com.squareup.okhttp3:okhttp:3.3.1'
     compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.github.dgrlucky:logx:1.0.0'
 }
