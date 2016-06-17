@@ -1,4 +1,4 @@
-#  Logger-Sample #
+#  LogX Manual #
 >Easier to output any log with everyone
 
 ### Features
