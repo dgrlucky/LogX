@@ -9,6 +9,13 @@
         <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_3673e2e40c19c66c40a20ff7d006a25b70eacb2c\classes.dex" />
     </item>
     <item
+        jar="C:\Users\dgrlucky\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_084547865354594067a0d57657ed870d15f4eab0\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -21,27 +28,6 @@
         revision="23.0.3"
         sha1="2126de9bfa6395572fc76e565f43fc85f48e641a">
         <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c7e984727a6e7731044e531e88a5f6af9a34444\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3eabfdfa5a51606d18c8eea374db34c3da8f7904\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\dgrlucky\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_3a40e82769fed5d8adb35a00a3d0e3fad912f7f9\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\dgrlucky\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_084547865354594067a0d57657ed870d15f4eab0\classes.dex" />
     </item>
     <item
         jar="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
@@ -58,6 +44,13 @@
         <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_becd6e8343c7d38fbdacb73064c1895c157ded42\classes.dex" />
     </item>
     <item
+        jar="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3eabfdfa5a51606d18c8eea374db34c3da8f7904\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -70,6 +63,13 @@
         revision="23.0.3"
         sha1="1e4392c3727fe8577d6b170728d38524288c752f">
         <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b05404dbf5196be2a98346ab7f32e57b6651e58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dgrlucky\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\dgrlucky\Desktop\LogX\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_3a40e82769fed5d8adb35a00a3d0e3fad912f7f9\classes.dex" />
     </item>
     <item
         jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"

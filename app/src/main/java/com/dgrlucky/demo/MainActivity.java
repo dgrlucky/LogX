@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         LogX.v("hello everyone !");
         LogX.s("hello everyone !");
         LogX.i(Data.getIntArray());
-        LogX.e("我是%s，我的工作是%s，我喜欢%s", "dgrlucky", "Android工程师", "萌妹纸");
+        LogX.e("我是%s，我的工作是%s，我喜欢%s", "dgrlucky", "Android工程师", "敲代码");
     }
 
     @OnClick(R.id.btn_Map)
