@@ -10,6 +10,27 @@
 >>*有想法欢迎提出
 
 
+## Tips
+>* 想懒？
+>* 1.你可以直接LogX.任意类型(任意对象);
+>* 2.你现在可要直接打印Android常用类型。
+>* 3.自定义解析类型，你可以不用愁！直接打印网络请求内容，格式美观
+
+
+### Options
+>* 使用前请在继承Application类下初始化。
+>* LogX.init(BuildConfig.DEBUG);  BuildConfig.DEBUG的值自动为true,发布打包时自动变为false。
+>* 根据自己喜好自定义打印信息
+
+## Usage
+```
+1.在Maven Central搜索“logx”选择'compile 'com.github.dgrlucky:logx:1.0.0'
+2.根目录:logx.jar  添加到libs依赖方可使用
+3.导入第三方库添加依赖，还可以自定义
+```
+
+![截图](screenshots/logx.png)
+
 #是否还在担心在哪查看错误信息？看完下面的介绍你以后都不用愁
 
 ##### 设置及建议
@@ -40,25 +61,6 @@
 ![截图](screenshots/throwable.png)
 ##### 打印Reponse（需自定义添加）
 ![截图](screenshots/response.png)
-
-## Tips
->* 想懒？
->* 1.你可以直接LogX.任意类型(任意对象);
->* 2.你现在可要直接打印Android常用类型。
->* 3.自定义解析类型，你可以不用愁！直接打印网络请求内容，格式美观
-
-
-### Options
->* 使用前请在继承Application类下初始化。
->* LogX.init(BuildConfig.DEBUG);  BuildConfig.DEBUG的值自动为true,发布打包时自动变为false。
->* 根据自己喜好自定义打印信息
-
-## Usage
-```
-1.根目录:logx.jar  添加到libs依赖方可使用
-2.导入第三方库添加依赖，还可以自定义
-3.在Maven Central搜索“logx”选择'compile 'com.github.dgrlucky:logx:1.0.0'
-```
 
 ## About
 * Blog: [dgrlucky.github.io](http://dgrlucky.github.io/) (建设中)
