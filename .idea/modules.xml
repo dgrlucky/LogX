@@ -4,9 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LogX.iml" filepath="$PROJECT_DIR$/LogX.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/klog/klog.iml" filepath="$PROJECT_DIR$/klog/klog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/logutil/logutil.iml" filepath="$PROJECT_DIR$/logutil/logutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/logx/logx.iml" filepath="$PROJECT_DIR$/logx/logx.iml" />
     </modules>
   </component>
